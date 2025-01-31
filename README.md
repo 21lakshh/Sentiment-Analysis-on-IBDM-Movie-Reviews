@@ -32,11 +32,6 @@ The model achieves the following performance metrics:
 
 These results indicate that the model generalizes well to unseen data while maintaining high accuracy.
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/21lakshh/Sentiment-Analysis-on-IBDM-Movie-Reviews.git
-   ```
-
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 ---
